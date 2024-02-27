@@ -1,7 +1,6 @@
 {
   "name": "test-project-b",
   "version-semver": "1.0.0",
-  "port-version": 0,
   "description": "Test Project B.",
   "license": null,
   "dependencies": [
