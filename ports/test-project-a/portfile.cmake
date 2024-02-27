@@ -2,6 +2,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO dforsten/test_project_a
     REF 1b4924080d7367f33a3297959f1bc62d2cdefc71
+    SHA512 0
 )
 
 vcpkg_cmake_configure(
