@@ -2,7 +2,7 @@
   "default": {
     "test-project-a": {
       "baseline": "1.0.0",
-      "port-version": 1
+      "port-version": 2
     }
   }
 }
